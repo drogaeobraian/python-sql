@@ -1,0 +1,26 @@
+[
+    {
+        "cpf": "65425636589",
+        "nome": "Gabriel",
+        "email": "gabtchouzen@gmail.com",
+        "senha": "macmelhordetodos"
+    },
+    {
+        "cpf": 85955936556,
+        "nome": "Brian",
+        "email": "blimaoliveira2008@gmail.com",
+        "senha": "Lima2020"
+    },
+    {
+        "cpf": 85496532545,
+        "nome": "Zoi",
+        "email": "zoieletricista@gmail.com",
+        "senha": "FreeFire"
+    },
+    {
+        "cpf": "8523697100",
+        "nome": "hemilly",
+        "email": "hemillyplatina@gmail.com",
+        "senha": "AbcDe123"
+    }
+]

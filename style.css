@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+body {
+    background-color: whitesmoke;
+    background: url(/static/imagens/background.webp);
+}
+
+div.flash_alerta{
+    background-color: red;
+    font-size: 50px;
+    border-radius: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+div#form_fundo{
+  background-color: #00ffff;
+  margin: 10% 25% 25% 25%;
+  text-align: center;
+  border-radius: 20px;
+  font-weight: bold;
+  box-shadow: 2px 5px 5px black;
+}
+
+input{
+ border-radius: 20px;
+ font-size: 14px;
+ font-weight: bold;
+}
+
+h1 {
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+button.entrar{
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button.entrar:hover {
+    background-color: black;
+    color: aqua;
+    padding: 13px;
+}
+
